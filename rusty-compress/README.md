@@ -2,7 +2,7 @@
 
 ### A small compresser built using flate2 crate.
 
-*Output*
+**OUTPUT**
 
 ```rust
 $ cargo run org-file.pdf cpr-file

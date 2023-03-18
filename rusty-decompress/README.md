@@ -1,9 +1,8 @@
 # rusty-compress
 
-### A small decompresser built using zip crate.
+### A small decompresser built using zip crate
 
-
-*Output*
+**OUTPUT**
 
 ```rust
 $ cargo run org.zip
